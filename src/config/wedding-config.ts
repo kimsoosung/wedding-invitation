@@ -40,26 +40,26 @@ export const weddingConfig = {
     month: 8,
     day: 23,
     hour: 15,
-    minute: 00,
+    minute: 0,
     displayDate: "2026.08.23 SUN PM 15:00",
   },
 
   // 장소 정보
   venue: {
-    name: "오드힐 하우스",
-    address: "서울특별시 서초구 방배로 47\n오드힐 하우스",
-    tel: "02-1234-5678",
-    naverMapId: "오드힐 하우스", // 네이버 지도 검색용 장소명
+    name: "오드힐하우스",
+    address: "서울특별시 서초구 방배로 47\n오드힐하우스",
+    tel: "0507-1410-5038",
+    naverMapId: "오드힐하우스", // 네이버 지도 검색용 장소명
     coordinates: {
-      latitude: 37.5665,
-      longitude: 126.9780,
+      latitude: 37.481232,
+      longitude: 126.997635,
     },
-    placeId: "123456789", // 네이버 지도 장소 ID
+    placeId: "1319208753", // 네이버 지도 장소 ID
     mapZoom: "17", // 지도 줌 레벨
-    mapNaverCoordinates: "14141300,4507203,15,0,0,0,dh", // 네이버 지도 길찾기 URL용 좌표 파라미터 (구 형식)
+    mapNaverCoordinates: "126.997635,37.481232,오드힐하우스", // 네이버 지도 길찾기 URL용 좌표 파라미터 (구 형식)
     transportation: {
-      subway: "지하철역 1번 출구에서 도보 5분",
-      bus: "간선\n 101, 102, 103\n지선\n 1234, 5678",
+      subway: "2호선 방배역 2번 출구 (도보 3분)",
+      bus: "하차: 방배역, 방배임광아파트\n간선: 142, 350, 406, 461, N61, N64, N75\n마을: 서초07, 서초13, 서초15, 서초16, 서초17"",
     },
     parking: "건물 지하 주차장 이용 가능 (2시간 무료)",
     // 신랑측 배차 안내
