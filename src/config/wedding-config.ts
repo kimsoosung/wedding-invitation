@@ -24,8 +24,8 @@ export const weddingConfig = {
   main: {
     title: "Wedding Invitation",
     image: "/images/ha0h-1fsi-bqt3.jpg",
-    date: "2026년 5월 16일 토요일 12시 30분",
-    venue: "웨딩홀 이름"
+    date: "2026년 8월 23일 일요일 15시 00분",
+    venue: "오드힐 하우스"
   },
 
   // 소개글
