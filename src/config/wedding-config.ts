@@ -128,6 +128,26 @@ export const weddingConfig = {
       number: "3333-11-2248976",
       holder: "이기은",
     },
+        groomFather: {
+      bank: "은행명",
+      number: "111-222-333444",
+      holder: "신랑아버지",
+    },
+    groomMother: {
+      bank: "은행명",
+      number: "555-666-777888",
+      holder: "신랑어머니",
+    },
+    brideFather: {
+      bank: "은행명",
+      number: "999-000-111222",
+      holder: "신부아버지",
+    },
+    brideMother: {
+      bank: "은행명",
+      number: "333-444-555666",
+      holder: "신부어머니",
+    },
   },
 
   // RSVP 설정
