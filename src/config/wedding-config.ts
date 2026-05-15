@@ -37,19 +37,19 @@ export const weddingConfig = {
   // 결혼식 일정
   date: {
     year: 2026,
-    month: 5,
-    day: 16,
-    hour: 12,
-    minute: 30,
-    displayDate: "2026.05.16 SAT PM 12:30",
+    month: 8,
+    day: 23,
+    hour: 15,
+    minute: 00,
+    displayDate: "2026.08.23 SUN PM 15:00",
   },
 
   // 장소 정보
   venue: {
-    name: "웨딩홀 이름",
-    address: "서울특별시 강남구 테헤란로 123\n웨딩홀 이름",
+    name: "오드힐 하우스",
+    address: "서울특별시 서초구 방배로 47\n오드힐 하우스",
     tel: "02-1234-5678",
-    naverMapId: "웨딩홀 이름", // 네이버 지도 검색용 장소명
+    naverMapId: "오드힐 하우스", // 네이버 지도 검색용 장소명
     coordinates: {
       latitude: 37.5665,
       longitude: 126.9780,
