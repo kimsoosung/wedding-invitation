@@ -54,7 +54,7 @@ export const weddingConfig = {
       latitude: 37.481232,
       longitude: 126.997635,
     },
-    placeId: "1319208753", // 네이버 지도 장소 ID
+    placeId: "2011790787", // 네이버 지도 장소 ID
     mapZoom: "17", // 지도 줌 레벨
     mapNaverCoordinates: "126.997635,37.481232,오드힐하우스", // 네이버 지도 길찾기 URL용 좌표 파라미터 (구 형식)
     transportation: {
