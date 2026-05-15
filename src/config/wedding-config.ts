@@ -13,7 +13,7 @@ interface GalleryConfig {
 export const weddingConfig = {
   // 메타 정보
   meta: {
-    title: "신랑 ❤️ 신부의 결혼식에 초대합니다",
+    title: "신랑 김수성 ❤️ 신부 이기은의 결혼식에 초대합니다",
     description: "결혼식 초대장",
     ogImage: "/images/ha0h-1fsi-bqt3.jpg",
     noIndex: true,
@@ -103,51 +103,31 @@ export const weddingConfig = {
   invitation: {
     message: "한 줄기 별빛이 되어 만난 인연\n평생을 함께 걸어가려 합니다.\n\n소중한 분들의 축복 속에\n저희 두 사람이 첫 걸음을 내딛습니다.\n\n귀한 시간 내어 함께해 주신다면\n그 어떤 축복보다 값진 선물이 될 것입니다.",
     groom: {
-      name: "신랑이름",
+      name: "김수성",
       label: "아들",
-      father: "신랑아버지",
-      mother: "신랑어머니",
+      father: "김성일",
+      mother: "이은향",
     },
     bride: {
-      name: "신부이름",
+      name: "이기은",
       label: "딸",
-      father: "신부아버지",
-      mother: "신부어머니",
+      father: "이해일",
+      mother: "홍미숙",
     },
   },
 
   // 계좌번호
   account: {
     groom: {
-      bank: "은행명",
-      number: "123-456-789012",
-      holder: "신랑이름",
+      bank: "국민은행",
+      number: "046802-04-164144",
+      holder: "김수성",
     },
     bride: {
-      bank: "은행명",
-      number: "987-654-321098",
-      holder: "신부이름",
+      bank: "카카오뱅크",
+      number: "3333-11-2248976",
+      holder: "이기은",
     },
-    groomFather: {
-      bank: "은행명",
-      number: "111-222-333444",
-      holder: "신랑아버지",
-    },
-    groomMother: {
-      bank: "은행명",
-      number: "555-666-777888",
-      holder: "신랑어머니",
-    },
-    brideFather: {
-      bank: "은행명",
-      number: "999-000-111222",
-      holder: "신부아버지",
-    },
-    brideMother: {
-      bank: "은행명",
-      number: "333-444-555666",
-      holder: "신부어머니",
-    }
   },
 
   // RSVP 설정
